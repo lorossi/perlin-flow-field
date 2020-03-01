@@ -8,6 +8,7 @@ It currently supports 3 different color themes, chosen at random:
 2. Black trails on white background
 3. Colored trails on black background
 
+The  sketch size can be changed by altering the value of the function _size()_.
 
 ### Manual mode
 * The sketch will start drawing as soon as it is run
@@ -15,6 +16,7 @@ It currently supports 3 different color themes, chosen at random:
 * Click on the sketch to reset it
 
 ### Automatic mode
+* Set the number of frames that you want to save by changing the value of _max\_saves_ variable
 * The sketch will start drawing as soon as it is run
 * Once the drawing hits a set number of generated frames, it automatically saves the current frame as image in the corresponding folder and starts drawing again
 
