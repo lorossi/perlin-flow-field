@@ -14,6 +14,6 @@ It currently supports 3 different color themes, chosen at random:
 * Press space bar to save the current frame
 * Click on the sketch to reset it
 
-### Automatic moded
+### Automatic mode
 * The sketch will start drawing as soon as it is run
 * Once the drawing hits a set number of generated frames, it automatically saves the current frame as image in the corresponding folder and starts drawing again
